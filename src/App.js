@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { ConnectedUsers } from '../components/Users'
 import UserInput from './components/UserInput'
+import {ConnectedUsers} from './components/Users'
 
 export class App extends Component {
   render() {
