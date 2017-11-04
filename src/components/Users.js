@@ -22,4 +22,3 @@ const mapStateToProps = (state) => {
 }
 
 export const ConnectedUsers = connect(mapStateToProps)(Users)
-
